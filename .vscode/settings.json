@@ -1,0 +1,14 @@
+{
+    "sqltools.connections": [
+        {
+            "database": "tekblog",
+            "driver": "PostgreSQL",
+            "name": "blog",
+            "password": "ilfr741852",
+            "port": 5432,
+            "previewLimit": 50,
+            "server": "localhost",
+            "username": "techdev"
+        }
+    ]
+}
